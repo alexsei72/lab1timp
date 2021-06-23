@@ -1,0 +1,32 @@
+C:\Users\JJ\source\repos\TCP\Client\bin\Debug\Client.exe.config
+C:\Users\JJ\source\repos\TCP\Client\bin\Debug\Client.exe
+C:\Users\JJ\source\repos\TCP\Client\bin\Debug\Client.pdb
+C:\Users\JJ\source\repos\TCP\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\JJ\source\repos\TCP\Client\obj\Debug\Client.exe
+C:\Users\JJ\source\repos\TCP\Client\obj\Debug\Client.pdb
+C:\Labs\TCP\Client\bin\Debug\Client.exe.config
+C:\Labs\TCP\Client\bin\Debug\Client.exe
+C:\Labs\TCP\Client\bin\Debug\Client.pdb
+C:\Labs\TCP\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Labs\TCP\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Labs\TCP\Client\obj\Debug\Client.exe
+C:\Labs\TCP\Client\obj\Debug\Client.pdb
+C:\Labs\ЛР 1\Client\bin\Debug\Client.exe.config
+C:\Labs\ЛР 1\Client\bin\Debug\Client.exe
+C:\Labs\ЛР 1\Client\bin\Debug\Client.pdb
+C:\Labs\ЛР 1\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Labs\ЛР 1\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Labs\ЛР 1\Client\obj\Debug\Client.exe
+C:\Labs\ЛР 1\Client\obj\Debug\Client.pdb
+C:\MVS\TCP\Client\bin\Debug\Client.exe.config
+C:\MVS\TCP\Client\bin\Debug\Client.exe
+C:\MVS\TCP\Client\bin\Debug\Client.pdb
+C:\MVS\TCP\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\MVS\TCP\Client\obj\Debug\Client.exe
+C:\MVS\TCP\Client\obj\Debug\Client.pdb
+C:\MVS\TCP - без winapi\Client\bin\Debug\Client.exe.config
+C:\MVS\TCP - без winapi\Client\bin\Debug\Client.exe
+C:\MVS\TCP - без winapi\Client\bin\Debug\Client.pdb
+C:\MVS\TCP - без winapi\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\MVS\TCP - без winapi\Client\obj\Debug\Client.exe
+C:\MVS\TCP - без winapi\Client\obj\Debug\Client.pdb

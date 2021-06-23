@@ -1,0 +1,33 @@
+C:\Users\JJ\source\repos\TCP\Server\bin\Debug\Server.exe.config
+C:\Users\JJ\source\repos\TCP\Server\bin\Debug\Server.exe
+C:\Users\JJ\source\repos\TCP\Server\bin\Debug\Server.pdb
+C:\Users\JJ\source\repos\TCP\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\JJ\source\repos\TCP\Server\obj\Debug\Server.exe
+C:\Users\JJ\source\repos\TCP\Server\obj\Debug\Server.pdb
+C:\Labs\ЛР 1\Server\bin\Debug\Server.exe.config
+C:\Labs\ЛР 1\Server\bin\Debug\Server.exe
+C:\Labs\ЛР 1\Server\bin\Debug\Server.pdb
+C:\Labs\ЛР 1\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Labs\ЛР 1\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Labs\ЛР 1\Server\obj\Debug\Server.exe
+C:\Labs\ЛР 1\Server\obj\Debug\Server.pdb
+C:\MVS\TCP\Server\bin\Debug\Server.exe.config
+C:\MVS\TCP\Server\bin\Debug\Server.exe
+C:\MVS\TCP\Server\bin\Debug\Server.pdb
+C:\MVS\TCP\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\MVS\TCP\Server\obj\Debug\Server.exe
+C:\MVS\TCP\Server\obj\Debug\Server.pdb
+C:\MVS\TCP - без winapi\Server\bin\Debug\Server.exe.config
+C:\MVS\TCP - без winapi\Server\bin\Debug\Server.exe
+C:\MVS\TCP - без winapi\Server\bin\Debug\Server.pdb
+C:\MVS\TCP - без winapi\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\MVS\TCP - без winapi\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\MVS\TCP - без winapi\Server\obj\Debug\Server.exe
+C:\MVS\TCP - без winapi\Server\obj\Debug\Server.pdb
+C:\Users\agole\Desktop\тимп лабы 1-7\1 - TCP\Server\bin\Debug\Server.exe.config
+C:\Users\agole\Desktop\тимп лабы 1-7\1 - TCP\Server\bin\Debug\Server.exe
+C:\Users\agole\Desktop\тимп лабы 1-7\1 - TCP\Server\bin\Debug\Server.pdb
+C:\Users\agole\Desktop\тимп лабы 1-7\1 - TCP\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\agole\Desktop\тимп лабы 1-7\1 - TCP\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\agole\Desktop\тимп лабы 1-7\1 - TCP\Server\obj\Debug\Server.exe
+C:\Users\agole\Desktop\тимп лабы 1-7\1 - TCP\Server\obj\Debug\Server.pdb
